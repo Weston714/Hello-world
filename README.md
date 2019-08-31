@@ -4,6 +4,7 @@
   <title>
     Hi world
   </title>
+    </head>
 
 </html>
   
